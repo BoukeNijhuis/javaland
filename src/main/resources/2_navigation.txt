@@ -4,3 +4,5 @@ Navigation
 • Search Everywhere
 • Switcher
 • Last Edited Location
+• Declaration or Usages
+• File Structure
