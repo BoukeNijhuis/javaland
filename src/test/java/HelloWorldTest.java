@@ -6,6 +6,7 @@ class HelloWorldTest {
 
     @Test
     void main() {
-        assertEquals("Hello world!", HelloWorld.formatMessage("Hello", "world"));
+        String actual = HelloWorld.formatMessage("Hello", "world");
+        assertEquals("Hello world!", actual);
     }
 }
