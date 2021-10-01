@@ -1,6 +1,5 @@
 Wrap up
 
-• Search Everywhere
-• Popup menus
-• Keyboard shortcuts
-
+• Let the IDE work for you
+• Use shortcuts wherever possible
+• Otherwise use popup menus

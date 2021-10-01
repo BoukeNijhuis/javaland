@@ -1,10 +1,10 @@
 public class HelloWorld {
 
     public static void main(String... args) {
-        printHelloWorld();
+        System.out.println(formatMessage("Hello", "world"));
     }
 
-    private static void printHelloWorld() {
-        System.out.println("Hello world!");
+    static String formatMessage(String first, String second) {
+        return String.format("%s %s!", first, second);
     }
 }

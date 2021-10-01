@@ -1,0 +1,6 @@
+Other
+
+• Run Anything
+• Compare with clipboard
+• Extend selection
+• Column Selection Mode

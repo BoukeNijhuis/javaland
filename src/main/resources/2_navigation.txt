@@ -6,3 +6,4 @@ Navigation
 • Last Edited Location
 • Declaration or Usages
 • File Structure
+• Go to Test
