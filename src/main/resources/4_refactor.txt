@@ -2,8 +2,6 @@ Refactor
 
 • Show Context Actions
 • Refactor This
-• Rename
+• Rename X
 • Change Signature
-• Introduce Parameter Object
 • Introduce X
-• Move Y

@@ -5,3 +5,4 @@ Introduction
 • Mouse vs keyboard
 • Plugins
 • Actions
+• Themes
