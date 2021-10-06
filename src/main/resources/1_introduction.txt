@@ -2,7 +2,7 @@ Introduction
 
 • Why?
 • How?
-• Mouse vs keyboard
 • Plugins
+• Mouse vs keyboard
 • Actions
 • Themes
