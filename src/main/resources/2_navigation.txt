@@ -1,9 +1,5 @@
 Navigation
 
-• Why?
 • Search Everywhere
 • Switcher
-• Declaration or Usages
-• File Structure
 • Last Edit Location
-• Go to Test

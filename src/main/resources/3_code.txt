@@ -1,6 +1,0 @@
-Code
-
-• Generate
-• Surround With / Unwrap
-• Move Line / Statement / Element
-• Show Parameters

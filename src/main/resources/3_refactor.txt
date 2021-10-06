@@ -2,6 +2,5 @@ Refactor
 
 • Show Context Actions
 • Refactor This
-• Rename X
-• Change Signature
 • Introduce X
+• Move Line / Statement / Element
