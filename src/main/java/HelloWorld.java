@@ -1,11 +1,10 @@
 public class HelloWorld {
 
-    public static final String HELLO = "Hello";
-
-    private String randomString = "random";
+    private static final String HELLO = "Hello";
+    private static final String WORLD = "random";
 
     public static void main(String... args) {
-        System.out.println(formatMessage(HELLO, "world"));
+        System.out.println(formatMessage(HELLO, WORLD));
     }
 
     static String formatMessage(String first, String second) {
