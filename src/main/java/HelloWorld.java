@@ -4,10 +4,10 @@ public class HelloWorld {
     private static final String WORLD = "world";
 
     public static void main(String... args) {
-        System.out.println(formatMessage(HELLO, WORLD, "%s %s!"));
+        System.out.println(formatMessage(HELLO, WORLD));
     }
 
-    static String formatMessage(String first, String second, String format) {
-        return String.format(format, first, second);
+    static String formatMessage(String first, String second) {
+        return String.format("%s %s!", first, second);
     }
 }
