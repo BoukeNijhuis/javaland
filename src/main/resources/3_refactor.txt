@@ -3,4 +3,4 @@ Refactor
 • Show Context Actions
 • Refactor This
 • Introduce X
-• Move Line / Element
+• Move Line/element

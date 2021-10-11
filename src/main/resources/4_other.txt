@@ -1,5 +1,5 @@
 Other
 
 • Run Anything
-• Extend selection
+• Extend/shrink selection
 • Column Selection Mode
