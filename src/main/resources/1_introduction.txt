@@ -2,6 +2,6 @@ Introduction
 
 • Why?
 • How?
-• Plugins
+• Presentation Assistant
 • Mouse vs keyboard
 • Actions
