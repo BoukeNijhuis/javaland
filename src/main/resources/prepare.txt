@@ -1,0 +1,4 @@
+fix settings.xml (check with mvn compile)
+use search everywhere (to warm up)
+open 0, 1 & 2
+put the cursors in the top left corner
