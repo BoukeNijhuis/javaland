@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class HelloWorldTest {
 
     @Test
-    void main() {
+    void test() {
         String actual = HelloWorld.formatMessage("Hello", "world");
         assertEquals("Hello world!", actual);
     }

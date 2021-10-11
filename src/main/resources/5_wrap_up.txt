@@ -1,5 +1,5 @@
 Wrap up
 
 • Let the IDE work for you
-• Use shortcuts wherever possible
-• Otherwise use popup menus
+• Use keyboard shortcuts wherever possible
+• Otherwise use gateway menus
