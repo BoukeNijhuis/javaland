@@ -3,3 +3,4 @@ Wrap up
 • Let the IDE work for you
 • Use keyboard shortcuts wherever possible
 • Otherwise use popup menus
+• Challenge yourself
