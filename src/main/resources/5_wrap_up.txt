@@ -2,4 +2,4 @@ Wrap up
 
 • Let the IDE work for you
 • Use keyboard shortcuts wherever possible
-• Otherwise use gateway menus
+• Otherwise use popup menus
