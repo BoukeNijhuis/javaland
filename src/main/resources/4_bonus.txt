@@ -1,6 +1,5 @@
 Bonus
 
 • Run Anything
-• Select word/line
 • Extend/shrink selection
 • Column Selection Mode
