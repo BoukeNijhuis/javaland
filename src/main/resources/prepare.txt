@@ -3,3 +3,5 @@ use search everywhere (to warm up)
 open 0, 1 & 2
 put the cursors in the top left corner (in ALL files)
 revert CHANGED files
+put IntelliJ in full screen mode
+put IntelliJ in light mode

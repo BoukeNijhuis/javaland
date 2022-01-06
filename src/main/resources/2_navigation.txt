@@ -2,4 +2,5 @@ Navigation
 
 • Search Everywhere
 • Switcher
+• Navigate Back / Forward
 • Last Edit Location

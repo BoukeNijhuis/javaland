@@ -1,5 +1,0 @@
-Bonus
-
-• Run Anything
-• Extend/shrink selection
-• Column Selection Mode
