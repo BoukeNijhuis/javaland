@@ -1,6 +1,5 @@
 Wrap up
 
 • Let the IDE work for you
-• Use keyboard shortcuts wherever possible
-• Otherwise use popup menus
+• (In)direct keyboard shortcuts
 • Challenge yourself
