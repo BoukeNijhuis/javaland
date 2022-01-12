@@ -2,4 +2,4 @@ Bonus
 
 • Run Anything
 • Next Highlighted Error
-• Compare with Clipboard
+• Comparing
