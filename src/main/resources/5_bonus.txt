@@ -3,3 +3,4 @@ Bonus
 • Run Anything
 • Next Highlighted Error
 • Comparing
+• Parameter Info

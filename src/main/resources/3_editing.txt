@@ -1,8 +1,6 @@
 Editing
 
 • Generate
-• Parameter Info
 • Extend/shrink selection
 • Column Selection Mode
 • Paste from history
-
