@@ -1,4 +1,4 @@
-Editing
+Writing
 
 • Generate
 • Extend/shrink selection
