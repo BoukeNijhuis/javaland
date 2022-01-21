@@ -1,0 +1,9 @@
+Bonus
+
+• Run Anything
+• Next Highlighted Error
+• Comparing
+• Parameter Info
+• Extend/shrink selection
+• Column Selection Mode
+• Paste from history

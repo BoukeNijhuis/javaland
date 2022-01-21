@@ -1,6 +1,8 @@
 Writing
 
 • Generate
-• Extend/shrink selection
-• Column Selection Mode
-• Paste from history
+• Live templates
+• Context Actions
+• Refactor This
+• Introduce X
+• Move X
