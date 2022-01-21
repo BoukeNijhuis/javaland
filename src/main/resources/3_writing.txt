@@ -1,7 +1,7 @@
 Writing
 
 • Generate
-• Live templates
+• Live Templates
 • Context Actions
 • Refactor This
 • Introduce X
