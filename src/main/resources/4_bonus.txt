@@ -1,10 +1,9 @@
 Bonus
 
 • Run Anything
-• Next Highlighted Error
 • Inject language
 • Extend/shrink selection
+• Next Highlighted Error
 • Column Selection Mode
 • Paste from history
 • Compare with clipboard
-• Surround with

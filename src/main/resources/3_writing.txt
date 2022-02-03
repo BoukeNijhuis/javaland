@@ -5,5 +5,4 @@ Writing
 • Context Actions
 • Complete Current Statement
 • Refactor This
-• Introduce X
 • Move X
