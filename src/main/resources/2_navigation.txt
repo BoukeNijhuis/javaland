@@ -3,5 +3,3 @@ Navigation
 • Search Everywhere
 • Switcher
 • Recent Files / Locations
-• Navigate Back / Forward
-• Last Edit Location
