@@ -1,4 +1,5 @@
 Wrap up
 
 • Let the IDE work for you
-• (In)direct keyboard shortcuts
+• Direct keyboard shortcuts
+• Thank you!
