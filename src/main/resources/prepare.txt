@@ -7,3 +7,4 @@ revert CHANGED files
 put IntelliJ in full screen mode
 put IntelliJ in light mode
 get some water
+phone & laptop on DnD
