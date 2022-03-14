@@ -2,4 +2,5 @@ Wrap up
 
 • Let the IDE work for you
 • Direct keyboard shortcuts
+• Questions?
 • Thank you!
