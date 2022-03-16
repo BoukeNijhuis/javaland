@@ -4,5 +4,5 @@
 
                       Increase your productivity with IntelliJ
 
-                                   Bouke Nijhuis
+                                   @BoukeNijhuis
                                       CINQ ICT
